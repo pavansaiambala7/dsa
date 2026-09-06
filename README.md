@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/pavansaiambala7/dsa/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/pavansaiambala7/dsa/tree/master/0125-valid-palindrome) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavansaiambala7/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pavansaiambala7/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/pavansaiambala7/dsa/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/pavansaiambala7/dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pavansaiambala7/dsa/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/pavansaiambala7/dsa/tree/master/0486-predict-the-winner) |
