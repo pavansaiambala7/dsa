@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavansaiambala7/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/pavansaiambala7/dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pavansaiambala7/dsa/tree/master/0213-house-robber-ii) |
+| [0403-frog-jump](https://github.com/pavansaiambala7/dsa/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/pavansaiambala7/dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/pavansaiambala7/dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/pavansaiambala7/dsa/tree/master/1406-stone-game-iii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/pavansaiambala7/dsa/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/pavansaiambala7/dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pavansaiambala7/dsa/tree/master/0213-house-robber-ii) |
+| [0403-frog-jump](https://github.com/pavansaiambala7/dsa/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/pavansaiambala7/dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/pavansaiambala7/dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/pavansaiambala7/dsa/tree/master/1406-stone-game-iii) |
