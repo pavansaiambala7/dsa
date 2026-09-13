@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavansaiambala7/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/pavansaiambala7/dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pavansaiambala7/dsa/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/pavansaiambala7/dsa/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/pavansaiambala7/dsa/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/pavansaiambala7/dsa/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/pavansaiambala7/dsa/tree/master/0518-coin-change-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/pavansaiambala7/dsa/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/pavansaiambala7/dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pavansaiambala7/dsa/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/pavansaiambala7/dsa/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/pavansaiambala7/dsa/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/pavansaiambala7/dsa/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/pavansaiambala7/dsa/tree/master/0518-coin-change-ii) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/pavansaiambala7/dsa/tree/master/0322-coin-change) |
 | [3310-remove-methods-from-project](https://github.com/pavansaiambala7/dsa/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -112,9 +115,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/pavansaiambala7/dsa/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/pavansaiambala7/dsa/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/pavansaiambala7/dsa/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/pavansaiambala7/dsa/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
