@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/pavansaiambala7/dsa/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/pavansaiambala7/dsa/tree/master/0125-valid-palindrome) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavansaiambala7/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/pavansaiambala7/dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pavansaiambala7/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/pavansaiambala7/dsa/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/pavansaiambala7/dsa/tree/master/0518-coin-change-ii) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/pavansaiambala7/dsa/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
