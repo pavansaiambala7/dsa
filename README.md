@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/pavansaiambala7/dsa/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/pavansaiambala7/dsa/tree/master/0125-valid-palindrome) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/pavansaiambala7/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/pavansaiambala7/dsa/tree/master/1143-longest-common-subsequence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavansaiambala7/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/pavansaiambala7/dsa/tree/master/3498-reverse-degree-of-a-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/pavansaiambala7/dsa/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/pavansaiambala7/dsa/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/pavansaiambala7/dsa/tree/master/0518-coin-change-ii) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/pavansaiambala7/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0877-stone-game](https://github.com/pavansaiambala7/dsa/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/pavansaiambala7/dsa/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/pavansaiambala7/dsa/tree/master/1406-stone-game-iii) |
@@ -132,5 +134,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/pavansaiambala7/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/pavansaiambala7/dsa/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
