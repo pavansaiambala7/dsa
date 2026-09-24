@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/pavansaiambala7/dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/pavansaiambala7/dsa/tree/master/1406-stone-game-iii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavansaiambala7/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pavansaiambala7/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/pavansaiambala7/dsa/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/pavansaiambala7/dsa/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pavansaiambala7/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pavansaiambala7/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pavansaiambala7/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
 | ------- |
