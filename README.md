@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/pavansaiambala7/dsa/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/pavansaiambala7/dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/pavansaiambala7/dsa/tree/master/1406-stone-game-iii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pavansaiambala7/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pavansaiambala7/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pavansaiambala7/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/pavansaiambala7/dsa/tree/master/3731-find-missing-elements) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/pavansaiambala7/dsa/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/pavansaiambala7/dsa/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/pavansaiambala7/dsa/tree/master/1406-stone-game-iii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pavansaiambala7/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Recursion
 |  |
 | ------- |
@@ -147,4 +149,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavansaiambala7/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pavansaiambala7/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pavansaiambala7/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
