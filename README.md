@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pavansaiambala7/dsa/tree/master/0125-valid-palindrome) |
 | [0583-delete-operation-for-two-strings](https://github.com/pavansaiambala7/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/pavansaiambala7/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/pavansaiambala7/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/pavansaiambala7/dsa/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavansaiambala7/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavansaiambala7/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/pavansaiambala7/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/pavansaiambala7/dsa/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0877-stone-game](https://github.com/pavansaiambala7/dsa/tree/master/0877-stone-game) |
+| [1092-shortest-common-supersequence](https://github.com/pavansaiambala7/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/pavansaiambala7/dsa/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/pavansaiambala7/dsa/tree/master/1406-stone-game-iii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pavansaiambala7/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/pavansaiambala7/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/pavansaiambala7/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/pavansaiambala7/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/pavansaiambala7/dsa/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
