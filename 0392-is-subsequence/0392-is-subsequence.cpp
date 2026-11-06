@@ -16,7 +16,7 @@ public:
         }
     }
  }
- if(min(n,m)==dp[n][m]&& dp[n][m]!=0)return true;
+ if(n==dp[n][m])return true;
 
  return false;
         
