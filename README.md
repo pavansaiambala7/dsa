@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/pavansaiambala7/dsa/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/pavansaiambala7/dsa/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/pavansaiambala7/dsa/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/pavansaiambala7/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/pavansaiambala7/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/pavansaiambala7/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/pavansaiambala7/dsa/tree/master/1092-shortest-common-supersequence) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/pavansaiambala7/dsa/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/pavansaiambala7/dsa/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/pavansaiambala7/dsa/tree/master/0486-predict-the-winner) |
+| [0516-longest-palindromic-subsequence](https://github.com/pavansaiambala7/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/pavansaiambala7/dsa/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/pavansaiambala7/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/pavansaiambala7/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
