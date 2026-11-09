@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/pavansaiambala7/dsa/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/pavansaiambala7/dsa/tree/master/0125-valid-palindrome) |
+| [0132-palindrome-partitioning-ii](https://github.com/pavansaiambala7/dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [0392-is-subsequence](https://github.com/pavansaiambala7/dsa/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/pavansaiambala7/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/pavansaiambala7/dsa/tree/master/0583-delete-operation-for-two-strings) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/pavansaiambala7/dsa/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/pavansaiambala7/dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/pavansaiambala7/dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pavansaiambala7/dsa/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/pavansaiambala7/dsa/tree/master/0322-coin-change) |
