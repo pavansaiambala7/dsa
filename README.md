@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/pavansaiambala7/dsa/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pavansaiambala7/dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavansaiambala7/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/pavansaiambala7/dsa/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pavansaiambala7/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/pavansaiambala7/dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pavansaiambala7/dsa/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/pavansaiambala7/dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/pavansaiambala7/dsa/tree/master/1406-stone-game-iii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/pavansaiambala7/dsa/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/pavansaiambala7/dsa/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Recursion
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pavansaiambala7/dsa/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavansaiambala7/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/pavansaiambala7/dsa/tree/master/0392-is-subsequence) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/pavansaiambala7/dsa/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Binary Search
 |  |
 | ------- |
